@@ -8,6 +8,6 @@ int main() {
 
 	cout << "好" << endl;
 	cout << "好" << endl;
-	cout << "好" << endl;
+	cout << "好" << endl;//1
 
 }
