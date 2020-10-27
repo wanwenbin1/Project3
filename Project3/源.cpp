@@ -8,5 +8,6 @@ int main() {
 
 	cout << "บร" << endl;
 	cout << "บร" << endl;
+	cout << "บร" << endl;
 
 }
